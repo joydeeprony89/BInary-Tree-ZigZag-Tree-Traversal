@@ -107,6 +107,7 @@ namespace BInary_Tree_ZigZag_Tree_Traversal
                 results.Add(list);
                 rightToLeft = !rightToLeft;
             }
+
             return results;
         }
     }
